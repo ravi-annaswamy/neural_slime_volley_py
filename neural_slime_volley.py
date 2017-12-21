@@ -35,7 +35,6 @@ I think that in many ways, this application is under recognized, (even though we
 appreciated for its awesomeness, not many followups even by David Ha!) and 
 study and adoption of the core ideas will lead to very good breakthroughs.
 
-ravi.annaswamy@gmail.com
 12/20/2017
 """
 
